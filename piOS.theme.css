@@ -10,7 +10,7 @@
  * @donate https://ko-fi.com/saltssaumure
 */
 
-@import url("https://saltssaumure.github.io/pios-discord-theme/pios.min.css");
+@import url("https://raw.githubusercontent.com/antichriist/pios-mod/main/pios.min.css");
 
 /* See https://github.com/Saltssaumure/pios-discord-theme#customisation for customisation settings. */
 :root {
@@ -22,7 +22,7 @@
 
     --crt-stripe:   block;
     --crt-scanline: none;   /* ⛐ This effect is performance-intensive. */
-    --crt-flicker:  none;   /* ⚠ This is a fast flickering effect and may not be suitable for those with photosensitive epilepsy. */
+    --crt-flicker:  block;   /* ⚠ This is a fast flickering effect and may not be suitable for those with photosensitive epilepsy. */
 }
 
 .theme-dark {
