@@ -10,7 +10,8 @@
  * @donate https://ko-fi.com/saltssaumure
 */
 
-@import url("https://raw.githubusercontent.com/antichriist/pios-mod/3a01c129cd205fd997793ccd704da2c0eb3aceb4/pios.min.css");
+/* https://raw.githubusercontent.com/antichriist/pios-mod/3a01c129cd205fd997793ccd704da2c0eb3aceb4/pios.min.css */
+@import url("https://raw.githubusercontent.com/antichriist/pios-mod/641e819e4f0ae3a30f24184106f1fba9239826c2/pios.min.css");
 
 /* See https://github.com/Saltssaumure/pios-discord-theme#customisation for customisation settings. */
 :root {
